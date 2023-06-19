@@ -1,0 +1,36 @@
+// Exercise 1: Calculate the Sum of Two Numbers
+let num 1=4  
+let num 2=8
+let sum num1 + num2 = 12
+
+
+// Exercise 2: Check if a Number is Even or Odd
+
+let num 1 =4
+let num 2 =8
+
+if (num1 % 2 == 0)  num 1 is even 
+or else  num1 is odd 
+if (num2 % 2 ==0) num 2 is even 
+or else num2  is odd 
+
+
+
+// Exercise 3: 
+Write pseudo code that will perform the following.    
+
+a) Read in 5 separate numbers.   
+b) Calculate the average of the five numbers.
+c) Find the smallest (minimum) and largest (maximum) of the five entered numbers.
+d) Write out the results found from steps b and c with a message describing what they are
+
+let num 1 = 4
+let num 2 = 8
+let num 3 = 6
+let num 4 = 10
+let num 5 = 15
+let average = sum /5;
+The minimun is 4
+The meximum is 15
+
+-- END --
